@@ -12,9 +12,12 @@ Teleports current working directory to user-defined flags set to directory paths
 ## flags
 | shorthand | long | desc |
 | --- | --- | --- |
-| -h | xxx | Display the help message |
-| -a FLAG PATH | xxx | Add a new entry |
-| -r FLAG | xxx | Remove the written entry, if exists |
-| -x | xxx | Remove all known entries from list |
-| -l [flag] | xxx | List all entries in file, list only [flag] if written |
+| `-h` | xxx | Display the help message |
+| `-a FLAG PATH` | xxx | Add a new entry |
+| `-r FLAG` | xxx | Remove the written entry, if exists |
+| `-x` | xxx | Remove all known entries from list |
+| `-l [flag]` | xxx | List all entries in file, list only [flag] if written |
 | --- | --- | --- |
+
+## credits
+idea by latchk3y, done as practice
